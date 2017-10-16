@@ -1,1 +1,1 @@
-# Repo for Kotlin smaples
+# Repo for Kotlin samples
